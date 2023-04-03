@@ -1,0 +1,6 @@
+[17-Jul-2020 05:39:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/muslikhm/public_html/bkk/pdf/coba.php on line 26
+[17-Jul-2020 05:39:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/muslikhm/public_html/bkk/pdf/coba.php on line 27
+[17-Jul-2020 05:39:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/muslikhm/public_html/bkk/pdf/coba.php on line 26
+[17-Jul-2020 05:39:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/muslikhm/public_html/bkk/pdf/coba.php on line 27
+[17-Jul-2020 05:39:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/muslikhm/public_html/bkk/pdf/coba.php on line 26
+[17-Jul-2020 05:39:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/muslikhm/public_html/bkk/pdf/coba.php on line 27
